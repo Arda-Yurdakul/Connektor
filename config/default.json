@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Arda45:Arda45@connektor.hkhzl.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "veryVerySecretToken",
+    "githubClientId": "857f159d915de9c6bb24",
+    "githubSecret": "cab564836d25ebf6a5eb8509c322cf0b25bc47b6"
+}
